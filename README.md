@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.quasar.dev%2Flogo%2F512%2Fquasar-logo.png&f=1&nofb=1&ipt=2596316f4fbcdd687d20fb6b05427eb519b14c4c12e68f8aedfb0012a6330085&ipo=images" width="300">
+  <img alt="Vue.js javascript library react angularjs, hsv logo png size: T-Shirts: Vue JS T-Shirt (White)" onerror="this.onerror=null;this.src='https://i2.wp.com/coder.clothing/images/stories/virtuemart/product/vuejs-logo.png';" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.quasar.dev%2Flogo%2F512%2Fquasar-logo.png&f=1&nofb=1&ipt=2596316f4fbcdd687d20fb6b05427eb519b14c4c12e68f8aedfb0012a6330085&ipo=images" width="300">
 </p>
 
 
